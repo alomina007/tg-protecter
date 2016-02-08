@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 return [[ 
-help For all Plugins of INfernalTG :
+help For all Plugins of TgProtecter :
 1./AddBot [Invitelink] : and you can do it with replay
 ======================================================
 2./bot + [botuserID] : allow a bot to join
@@ -105,8 +105,8 @@ dont user "!" and "/"for this plug
 85./plug + [NAME] gp :enable a plugin in group
 ==========================================
 86./stats : send group stats in file.txt
-87./stats InfernalTG : stats bot
-89./infernal : bot about
+87./stats TgProtecter : stats bot
+89./protecter : bot about
 90./stats group [ID] : get gp stats
 =================================
 91./tagall [txt] : will tagall users
@@ -120,13 +120,13 @@ dont user "!" and "/"for this plug
 ===========================================
 more helps soon
 you can use both "!" and "/"
-our channell : @INFERNALTEAMCH
-Master admin : @ArashInfernal
+our channell : @TgProtecter_ch
+Master admin : @solid021
 ]]
 end
 
 return {
-description = "Shows help for all Plugins Of infernalTG", 
+description = "Shows help for all Plugins Of TProtecter", 
 patterns = {
 "^[!/]help (all)$",
 "^help (all)$"
