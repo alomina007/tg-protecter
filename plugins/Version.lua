@@ -2,18 +2,15 @@ do
 
 function run(msg, matches)
 return [[ 
-INFERNALTEAM Robot Ver 4.2
-AntispamBot : @InfernalTG
-website : https://arashinfernal.epage.ir
-Our Channel : @INFERNALTEAMCH
-@INFERNALCHANNEL
-@INFERNALTEAM
+Persian gulf TEam Robot Ver 4.2
+AntispamBot : @TgProtecter
+Our Channel : @TgProtecter_ch
+@persian_gulf_team
 Our code is open source but !
 remember : copy right!
-https://github.com/INFERNALTEAM/InfernalTG
+https://github.com/INFERNALTEAM/tg-proecter
 spical thanx...
-imandaneshi ...
-iwals ...
+Arash Infernal ...
 
 ]]
 end
