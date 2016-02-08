@@ -234,32 +234,26 @@ function create_config( )
     "tagall",
     
     },
-    sudo_users = {109722284,99743635,171604508},--Sudo users
+    sudo_users = {157059515},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[infernalTG  v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
  
  our official github :
- https://github.com/INFERNALTEAM/InfernalTG.git
-Antispambot : @InfernalTG
-website ; https://arash-infernal.epage.ir
+ https://github.com/solid021/tg-protecter.git
+Antispambot : @TgProtecter
 Admins
-@Creed_is_dead [Founder]
-@digitalboys [Developer]
-@Arashinfernal [Developer]
-@MustafFlux [Manager]
+@solid021 [Founder&Developer]
+@alirezaasadi_psg [Manager]
 
 Special thanks to
-Imandaneshi
-thisisarman
-yago perez ...
+Arash Infernal
 and more ...
 
 Our channels
-@Infernalteamch [English]
-@infernalchannel [persian]
-@Infernalteam [persian]
+@TgProtecter_ch [persian]
+@persian_gulf_team [persian]
 ]],
     help_text_realm = [[
 group admin Commands:
@@ -300,7 +294,7 @@ group admin Commands:
 !log
 
 !broadcast [text]
-!broadcast InfernalTG !
+!broadcast Protecter !
 
 !br [group_id] [text]
 !br 123456789 Hello !
@@ -317,7 +311,7 @@ group admin Commands:
 *Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
-tools for InfernalTG :
+tools for TgProtecter :
 
 >#1.Add_bot
 >#2.Anti_Bot
@@ -354,8 +348,8 @@ tools for InfernalTG :
 >#32.share
 help all plugin soon :D ,"
 You Can Get Bot version by sending !version,"
-Master admin : @ArashInfernal ,"
-our channel : @INFERNALTEAMCH ,"
+Master admin : @solid021 ,"
+our channel : @TgProtecter_ch ,"
 
 ]]
   }
