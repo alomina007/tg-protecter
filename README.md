@@ -64,8 +64,6 @@ enabled PLUGINS :
 
 [Persian Gulf Team](telegram.me/persian_gulf_team)
 
-#thanks all for anything
-
 our bot [Tg Protecter](telegram.me/TgProtecter)
 
 **Just For You guys**
@@ -83,15 +81,9 @@ our channels :
 
 #**our TEAM**
 
-#[Arash](telegram.me/ARASHINFERNAL)
+#[Solid](telegram.me/solid021])
 
-[AShkan](telegram.me/Digitalboys)
-
-[shahab](telegram.me/ShahabSaf)
-
-[Mustafa](telegram.me/MustafaFlux)
-
-[Arsalan](telegram.me/Creed_is_dead)
+[Mr.A.R.A](telegram.me/alirezaasadi_psg)
 
 [join](https://telegram.me/joinchat/) for Persian support
 
