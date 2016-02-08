@@ -75,10 +75,6 @@ our channels :
 
 [TgProtecter](Tgprotecter_ch)
 
-**our website**  :
-
-[ARASH-INFERNAL](https://arash-infernal.epage.ir)
-
 #**our TEAM**
 
 #[Solid](telegram.me/solid021])
