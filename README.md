@@ -1,6 +1,6 @@
-# **[InfernalTG](https://telegram.me/TeleInfernal)** 
+# **[TGProtecter](https://telegram.me/TgProtecter)** 
 
-[best anti spam bot](telegram.me/InfernalTG)
+[best anti spam bot](telegram.me/TgProtecter)
 
 enabled PLUGINS :
 
@@ -50,44 +50,32 @@ enabled PLUGINS :
 
 
 
-[spical thanks to IMANDANESHI](telegram.me/INFERNALTEAMCH)
+[spical thanks to ArashInfernal](telegram.me/INFERNALTEAMCH)
 
 # **sudoers** :
 
 **creator** :
 
-[ArashInfernal](telegram.me/ArashInfernal])
+[Solid](telegram.me/solid021])
 
-[AshkanDigital](telegram.me/digitalboys)
-
-[MustafaFlux](telegram.me/MustafaFlux)
+[Mr.A.R.A](telegram.me/alirezaasadi_psg)
 
 # thanx to
 
-[Arsalan](telegram.me/Creed_Is_dead)
-
-&
-
-[Alfred](telegram.me/babaye_safar_koskesh_khar)
-
-and
-
-[imandaneshi](telegram.me/Imandaneshi)
+[Persian Gulf Team](telegram.me/persian_gulf_team)
 
 #thanks all for anything
 
-our bot [INFERNALTG](telegram.me/InfernalTG)
+our bot [Tg Protecter](telegram.me/TgProtecter)
 
 **Just For You guys**
 
 our channels :
-[INFERNALTEAM english channel](telegram.me/INFERNALTEAMCH)
-
-[INFERNALTEAM persian channel](telegram.me/INFERNALTEAM)
+[Persian Gulf channel](telegram.me/persian_gulf_team)
 
 **our bots channel persian**
 
-[INFERNALCHANNEL](INfernalCHANNEL)
+[TgProtecter](Tgprotecter_ch)
 
 **our website**  :
 
@@ -105,25 +93,7 @@ our channels :
 
 [Arsalan](telegram.me/Creed_is_dead)
 
-thanks all for evrything
-**Imandaneshi**
-
-[join](https://telegram.me/joinchat/CptvyAXdgnyI8tIQoInBuA) for Infernals English support
-
-or 
-
-[join](https://telegram.me/joinchat/CptvyAXK-WeW2LVz5yUScQ) for Infernals Persian support
-
-thanx to ...
-
-
-#yagop
-
-#imandaneshi
-
-ThisIsArman
-
-AshkanDigital
+[join](https://telegram.me/joinchat/) for Persian support
 
 
 # [INSTALLION](installion)
@@ -151,8 +121,8 @@ lets install the source
 ```bash
 # Source
 cd $HOME
-git clone https://github.com/INFERNALTEAM/InfernalTG.git
-cd InfernalTG
+git clone https://github.com/solid021/tg-protecter.git
+cd tg-protecter
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # will ask you to Enter a phone number & confirmation code.
@@ -161,4 +131,4 @@ then your bot is finished ...
 
 
 
-#INFERNALTEAM
+#PERSIAN GULF TEAM
