@@ -237,7 +237,7 @@ function create_config( )
     sudo_users = {157059515},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[infernalTG  v2 - Open Source
+    about_text = [[TgProtecter  v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
  
  our official github :
