@@ -2,18 +2,18 @@ do
 
 function run(msg, matches)
 return [[ 
-help For all Plugins of TgProtecter :
+لیست دستورات کامل ربات:
 1./AddBot [Invitelink] : and you can do it with replay
-======================================================
+—————————————————————————————————————————————————————
 2./bot + [botuserID] : allow a bot to join
 3./bot - [botID] : dissallow bot for joining
 4./bot + : enable anti bot in group
 5./bot - : disable in group
-=====================================================
+—————————————————————————————————————————————————————
 6.Auto_Leave : this is not one command , the bot will leave if they add him
-=====================================================
+—————————————————————————————————————————————————————
 7./block user [USERID] : block a user !
-=============================================
+—————————————————————————————————————————————————————
 8.whitelist + : enable white list in group
 9.whitelist - : disable whitelist in group
 10.whitelist + [ID] : whitelist user from bot
@@ -29,15 +29,14 @@ help For all Plugins of TgProtecter :
 19.kick [@USERNAME] : kick a user from group
 19.kick [ID] : kick user from group
 dont user "!" and "/"for this plug
-======================================================
+—————————————————————————————————————————————————————
 20./calc [numb] +or*or/[numb] :Calculator plugin
-==============================================
+—————————————————————————————————————————————————————
 21./Echo [whatever] : return a text
-========================================
-22./Feedback [TEXT] : send maseage to @ARASHINFERNAL
-=================================================
+—————————————————————————————————————————————————————
+22./Feedback [TEXT] : send maseage to @spammer021
 23./gps (city)\(ZONE) : find a zone in map
-==============================================
+—————————————————————————————————————————————————————
 24./addgroup : add gp to moderation.jsson 
 25./add realm : add group to realm
 26./remgroup : rem gp from moderation.jsson
@@ -67,11 +66,11 @@ dont user "!" and "/"for this plug
 58./link : get group link
 59./kickinactive :kick group inactivs
 60./kickinactive [ID] ;kick inactive
-===========================================
+—————————————————————————————————————————————————————
 61./map ... : get map and location
-==========================================
+—————————————————————————————————————————————————————
 62./maseage [ID] [TEXT] : send maseage to user[adminonly]
-====================================================
+—————————————————————————————————————————————————————
 63./globalban @USERNAME : global ban user
 64./globalban : globalban with reply
 65./banlist : get group banslist
@@ -82,46 +81,44 @@ dont user "!" and "/"for this plug
 70./id : get group id , you can do it with replay to
 71./kickme : kick ourself from group
 72./glbanlist : get glbans list
-============================================
+—————————————————————————————————————————————————————
 73./S2A [TXT] : send maseage to all
 74./bcgp [ID] [TEXT] : send maseage to gp
-====================================
+—————————————————————————————————————————————————————
 75./sudoers : return bot sudos
-=====================================
+—————————————————————————————————————————————————————
 76./time [city] : get city time
-====================================
+—————————————————————————————————————————————————————
 77./version : return bot version
-===========================================
+—————————————————————————————————————————————————————
 78./all : return all thins about gp
-=========================================
+—————————————————————————————————————————————————————
 79./cgroup [id] : close group
-=======================================
+—————————————————————————————————————————————————————
 80./dic [word] : return word in persian
-===========================================
+—————————————————————————————————————————————————————
 81./plug : return all plugins list
 82./plug + [NAME] : enable a plugin
 83./plug - [NAME] : disable a plugin
 84./plug - [NAME] gp : disable a plugin in gp
 85./plug + [NAME] gp :enable a plugin in group
-==========================================
+—————————————————————————————————————————————————————
 86./stats : send group stats in file.txt
 87./stats TgProtecter : stats bot
 89./protecter : bot about
 90./stats group [ID] : get gp stats
-=================================
+—————————————————————————————————————————————————————
 91./tagall [txt] : will tagall users
-===============================
+—————————————————————————————————————————————————————
 92./kickall [ID] : kickall members from gp
-=========================================
+—————————————————————————————————————————————————————
 93./toengsupport : return support link
 94./topersupport : return persian support link
-================================================== 
+—————————————————————————————————————————————————————
 95./txt2img [TXT] : text to image 
-===========================================
+—————————————————————————————————————————————————————
 more helps soon
 you can use both "!" and "/"
-our channell : @TgProtecter_ch
-Master admin : @solid021
 ]]
 end
 
@@ -130,7 +127,7 @@ description = "Shows help for all Plugins Of TProtecter",
 patterns = {
 "^[!/]help (all)$",
 "^help (all)$"
-}, 
+},
 run = run 
 }
 
